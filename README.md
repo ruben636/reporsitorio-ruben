@@ -2,15 +2,15 @@
 
 <em style="color: blue; text-align:center; "> CANTANTES ARGENTINOS </em> 
  
-1 DUKI
+1 <i>DUKI</i>
    
-2.NICKY NICOLE
+2.<i>NICKY NICOLE</i>
    
-3.TRUENO
+3.<i>TRUENO</i>
  
-4.MARIA BECERRA
+4.<i>MARIA BECERRA</i>
 
-5.TIAGO PZK
+5.<i>TIAGO PZK</i>
 
 
 
