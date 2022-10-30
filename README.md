@@ -80,10 +80,10 @@
  
   <li> <b>TIAGO PZK </b> </li>
   <p>Tiago Uriel Pacheco Lezcano (born August 3, 2001), better known by his stage name Tiago PZK,[1] is an Argentine rapper and singer, mostly related with R&B, rap and reggaeton. His hit-singles are "Sola", "Además de Mí", "Entre Nosotros", "Salimo de Noche", and "Cerca de Ti".</p>
-  <img src= https://fotos.perfil.com/2022/02/23/trim/1140/641/tiago-pzk-confeso-que-se-opero-sus-cuerdas-vocales-1317255.jpg width = "285" height= "160.25"
+  <img src= https://fotos.perfil.com/2022/02/23/trim/1140/641/tiago-pzk-confeso-que-se-opero-sus-cuerdas-vocales-1317255.jpg width = "285" height= "160.25">
        
   
-   <ol> 
+ <ol> 
  <li> Entre Nosotros </li>
  <li> Tiago Pzk: Bzrp Music Session </li>
  <li> Salimo de Noche </li>
