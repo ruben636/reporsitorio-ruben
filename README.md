@@ -17,11 +17,11 @@
   <p>Mateo Palacios Corazzina (La Boca, Buenos Aires; 25 de marzo de 2002), más conocido por su nombre artístico Trueno, es un rapero, cantante y freestyler argentino. Es conocido principalmente por su sesión de freestyle «Trueno: Bzrp Freestyle Sessions, Vol. 6», en colaboración con Bizarrap,y por la canción «Mamichula» en colaboración con Bizarrap y Nicki Nicole que superó, en poco menos de seis meses, las 220 millones de reproducciones a través de YouTube.</p>
   <img src= https://static.wikia.nocookie.net/rap/images/9/99/Truenito.jpg/revision/latest?cb=20200607163704&path-prefix=es width = "200" height= "200">
   <li> MARIA BECERRA </li>
+  <p>María de los Ángeles Becerra (Quilmes, Provincia de Buenos Aires; 12 de febrero de 2000), conocida como María Becerra, es una cantante, compositora y exyoutuber argentina.</p>
+  <p> En 2015 comenzó a crear contenido de entretenimiento en su canal de YouTube, el cual contó con más de tres millones de suscriptores.En cuánto a su faceta como cantante, se consolidó en 2019 tras el lanzamiento de su EP debut, 222, que incluye las canciones «Tu Lady», «Nada de amor» y «Dime cómo hago». </p>
+  <img src= https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/06/16/16553732344233.jpg width = "600" height= "400">
   <li> TIAGO PZK </li>
-  <li> KHEA </li>
-  <li> LIT KILLAH </li>
-  <li> RUSHERKING </li>
-  <li> EMILIA MAMI </li>
+  
   
   
   
