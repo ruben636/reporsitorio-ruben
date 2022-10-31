@@ -157,11 +157,18 @@
  
  </table>
  
+
+ 
+ <h4> PROVENIENTES DEL QUINTO ESCALÓN (BATALLAS RAP CALLEJERAS): </h4>
+- [x] Duki <br>
+- [ ] Nicki Nicole <br>
+- [x] Trueno <br>
+- [ ] Maria Becerra <br>
+- [x] Tiago Pzk <br>
+
+
  <p>Mas informacion en: <a href = "https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional">https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional</a></p>
  
-- [ ] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
  
 
 
