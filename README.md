@@ -142,7 +142,7 @@
 </tr>
  
   <tr> 
- <td>  MARIA BECERRA </td>
+ <td>  TIAGO PZK </td>
  <td>  21 </td>
  <td> 0 </td>
  <td>  Nominado a Mejor Artista Región Sur, 2022<br> Nominado a Artista Revelación, 2022<br> Nominado a Mejor Video, 2022</td>
@@ -158,6 +158,10 @@
  </table>
  
  <p>Mas informacion en: <a href = "https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional">https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional</a></p>
+ 
+- [ ] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
  
 
 
