@@ -28,7 +28,7 @@
   <img src= https://upload.wikimedia.org/wikipedia/commons/9/98/Duko_concierto.jpg width ="164" height="217.5">
  <h3>TOP CANCIONES</h3>
  <ol> 
- <li> She don't give a fo </li>
+ <li>She don't give a fo</li>
  <li> Hello cotto </li>
  <li> Si te sentis sola</li>
  <li> Top 5 </li>
@@ -97,7 +97,67 @@
   
   </ul>
   
-<a href="https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional "> Más información</a>
+
+
+<h2>PREMIOS GANADOS </h2>
+
+<table>
+<tr> 
+ <td> </td>
+ <td> EDAD </td>
+ <td> Cantidad de premios </td>
+ <td> Premios </td>
+</tr>
+ 
+ <tr> 
+ <td>  DUKI </td>
+ <td>  26 </td>
+ <td> 4 </td>
+ <td>  Mejor canción o álbum Urbano/Trap, 2019 <br>Mejor colaboración Urbano/Trap, 2019<br>Mejor canción o álbum Urbano/Trap, 2020<br>Mejor colaboración Urbano/Trap, 2020</td>
+  
+</tr>
+ 
+ <tr> 
+ <td>  NICKI NICOLE </td>
+ <td>  22 </td>
+ <td> 1 </td>
+ <td>  Artista Revelación femenino, 2021</td>
+  
+</tr>
+ 
+  <tr> 
+ <td>  TRUENO </td>
+ <td>  20 </td>
+ <td> 4 </td>
+ <td>  Mejor video de rap / trap / hip hop, 2020 <br> Video del año, 2020<br> Mejor álbum / canción de música urbana / trap, 2021 <br>Mejor colaboración de música urbana / trap, 2021</td>
+  
+</tr>
+ 
+  <tr> 
+ <td>  MARIA BECERRA </td>
+ <td>  22 </td>
+ <td> 2 </td>
+ <td>  Canción del Año, 2022 <br> Tropical Mix, 2022</td>
+  
+</tr>
+ 
+  <tr> 
+ <td>  MARIA BECERRA </td>
+ <td>  21 </td>
+ <td> 0 </td>
+ <td>  Nominado a Mejor Artista Región Sur, 2022<br> Nominado a Artista Revelación, 2022<br> Nominado a Mejor Video, 2022</td>
+  
+</tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </table>
+ 
+ <p>Mas informacion en: <a href = "https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional">https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional</a></p>
  
 
 
