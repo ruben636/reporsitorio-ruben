@@ -96,6 +96,8 @@
   
   
   </ul>
+  
+<a href="https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional "> Más información</a>
  
 
 
