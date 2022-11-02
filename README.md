@@ -23,7 +23,7 @@ Mauro Ezequiel Lombardo Quiroga (barrio de Almagro, Ciudad Autónoma de Buenos A
 En 2017, irrumpió en la escena musical argentina con su primer sencillo exitoso, «She Don't Give a FO», y al año siguiente formó parte del trío musical "Modo Diablo" junto a los raperos YSY A y Neo Pistea. 
   
   
- ![DUKI](https://upload.wikimedia.org/wikipedia/commons/9/98/Duko_concierto.jpg)
+ ![DUKI](https://www.clarin.com/img/2022/05/19/duki-el-primer-artista-de___LVGEhW9hu_2000x1500__1.jpg)
   
  ### TOP CANCIONES
 
@@ -45,7 +45,7 @@ En 2020, colaboró junto a Trueno en el sencillo «Mamichula», el cual consegui
 En 2021 lanzó su segundo álbum de estudio titulado Parte de mí, álbum que recibió cantidad de nominaciones por sus sencillos como «Colocao», «Verte», entre otros. En octubre de ese mismo año hizo la primera Tiny Desk en Buenos Aires y se convirtió en al quinta artista en lograrlo. 
   
   
-![NICKI NICOLE](https://fotos.perfil.com/2022/01/21/trim/1140/641/nicki-nicole-sorprendio-con-un-jugado-cambio-de-look-1302270.jpg)
+![NICKI NICOLE](https://es.rollingstone.com/wp-content/uploads/2021/11/rw-nicki-nicole-parte-de-mi-album-portada.jpg)
 
  ### TOP CANCIONES
  
@@ -129,7 +129,7 @@ Sus  hits son "Sola", "Además de Mí", "Entre Nosotros", "Salimo de Noche", y "
 - [x] Tiago Pzk
 
 
- [Mas informacion en:](https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional">https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional) 
+ Más Información en: [https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional](https://www.unidiversidad.com.ar/quien-es-quien-en-el-universo-del-trap-nacional)
  
 
 
